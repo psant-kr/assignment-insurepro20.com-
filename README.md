@@ -1,2 +1,8 @@
-# assignment-insurepro20.com-
-Do not load this data into an SQL table or use libraries like Pandas. Get these results using basic data structures like list and maps. The idea of this assignment is to assess you on your knowledge of algorithms and data structures. Use any programming language that you are comfortable in.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
