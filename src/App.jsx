@@ -1,14 +1,11 @@
-import './App.css'
-import SalesReport from "./SalesReport"
+import SalesReport from "./SalesReport";
 
 function App() {
-  
-
   return (
     <>
-      <SalesReport/>
+      <SalesReport />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
